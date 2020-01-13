@@ -1,0 +1,1 @@
+console.log("Запустился main3.js");
